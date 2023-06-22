@@ -1,4 +1,4 @@
-# Welcome to React Ecommerce Webstie 
+# Welcome to React Ecommerce Website
 
 ## Follow the 3 Steps and your good to go. 
 
